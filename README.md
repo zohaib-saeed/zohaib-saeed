@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! I am Zohaib Saeed. <br>A full stack web developer experienced in developing web apps utilizing Javascript / Typescript frameworks. I learn from my experiences and resources out there and develop final products that are visually appealing that clients can proud of.<br>
+Hi 👋! I am Zohaib Saeed. <br>A Full Stack Web Developer and a Software Engineer experienced in developing web apps utilizing Javascript / Typescript frameworks. I learn from my experiences and resources out there and develop final products that are visually appealing that clients can proud of.<br>
 
 
 ## 🌐 Socials:
