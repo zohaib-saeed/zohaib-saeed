@@ -60,13 +60,6 @@ My engineering background strongly influences how projects are scoped, designed,
 
 ---
 
-## GitHub Activity
-
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaib-saeed&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-saeed&layout=compact&hide_border=true)
-
----
-
 ## Let’s Connect
 
 - **Website:** https://proxels.com  
